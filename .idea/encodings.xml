@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/src/com/ru/java/javarush/echo/nikolaymelnikov/javarushproject/creatures/animals/carnivoreanimals/Bear.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/ru/java/javarush/echo/nikolaymelnikov/javarushproject/creatures/animals/herbivoreanimals/HerbivoreAnimal.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ru/javarush/echo/nikolaymelnikov/javarushproject/creatures/animals/carnivoreanimals/Bear.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ru/javarush/echo/nikolaymelnikov/javarushproject/creatures/animals/herbivoreanimals/HerbivoreAnimal.java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

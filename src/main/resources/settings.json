@@ -1,0 +1,162 @@
+{
+  "wight": 100,
+  "height": 20,
+  "plantsNutritionalValue": 10,
+  "starve": 3,
+  "plantsWeight": 1,
+  "plantsCapacityPerCell": 200,
+  "plantEmoji" : "🎋",
+  "animalCharacteristics": [
+    {
+      "name": "Bear",
+      "weight": 500.0,
+      "maxEnergy": 2,
+      "currentEnergy": 0,
+      "maxHunger": 80.0,
+      "currentHunger": 80,
+      "maxCapacity": 5,
+      "emoji": "🐻"
+    },
+    {
+      "name": "Boa",
+      "weight": 15.0,
+      "maxEnergy": 1,
+      "currentEnergy": 0,
+      "maxHunger": 3.0,
+      "currentHunger": 3,
+      "maxCapacity": 30,
+      "emoji": "🐍"
+    },
+    {
+      "name": "Eagle",
+      "weight": 6.0,
+      "maxEnergy": 3,
+      "currentEnergy": 0,
+      "maxHunger": 1.0,
+      "currentHunger": 1,
+      "maxCapacity": 20,
+      "emoji": "🦅"
+    },
+    {
+      "name": "Fox",
+      "weight": 8.0,
+      "maxEnergy": 2,
+      "currentEnergy": 0,
+      "maxHunger": 2.0,
+      "currentHunger": 2,
+      "maxCapacity": 30,
+      "emoji": "🦊"
+    },
+    {
+      "name": "Wolf",
+      "weight": 50.0,
+      "maxEnergy": 3,
+      "currentEnergy": 0,
+      "maxHunger": 8.0,
+      "currentHunger": 8,
+      "maxCapacity": 30,
+      "emoji": "🐺"
+    },
+    {
+      "name": "Boar",
+      "weight": 400.0,
+      "maxEnergy": 2,
+      "currentEnergy": 0,
+      "maxHunger": 50.0,
+      "currentHunger": 50,
+      "maxCapacity": 50,
+      "emoji": "🐗"
+    },
+    {
+      "name": "Buffalo",
+      "weight": 700.0,
+      "maxEnergy": 3,
+      "currentEnergy": 0,
+      "maxHunger": 100.0,
+      "currentHunger": 100,
+      "maxCapacity": 10,
+      "emoji": "🐃"
+    },
+    {
+      "name": "Caterpillar",
+      "weight": 0.01,
+      "maxEnergy": 0,
+      "currentEnergy": 0,
+      "maxHunger": 0.0,
+      "currentHunger": 0,
+      "maxCapacity": 1000,
+      "emoji": "🐛"
+    },
+    {
+      "name": "Deer",
+      "weight": 300.0,
+      "maxEnergy": 4,
+      "currentEnergy": 0,
+      "maxHunger": 50.0,
+      "currentHunger": 50,
+      "maxCapacity": 20,
+      "emoji": "🦌"
+    },
+    {
+      "name": "Duck",
+      "weight": 1.0,
+      "maxEnergy": 4,
+      "currentEnergy": 0,
+      "maxHunger": 0.15,
+      "currentHunger": 0.15,
+      "maxCapacity": 200,
+      "emoji": "🦆"
+    },
+    {
+      "name": "Goat",
+      "weight": 60.0,
+      "maxEnergy": 3,
+      "currentEnergy": 0,
+      "maxHunger": 10.0,
+      "currentHunger": 10,
+      "maxCapacity": 140,
+      "emoji": "🐐"
+    },
+    {
+      "name": "Horse",
+      "weight": 400.0,
+      "maxEnergy": 4,
+      "currentEnergy": 0,
+      "maxHunger": 60.0,
+      "currentHunger": 60,
+      "maxCapacity": 20,
+      "emoji": "🐎"
+    },
+    {
+      "name": "Mouse",
+      "weight": 0.05,
+      "maxEnergy": 1,
+      "currentEnergy": 0,
+      "maxHunger": 0.01,
+      "currentHunger": 0.01,
+      "maxCapacity": 500,
+      "emoji": "🐁"
+    },
+    {
+      "name": "Rabbit",
+      "weight": 2.0,
+      "maxEnergy": 2,
+      "currentEnergy": 0,
+      "maxHunger": 0.45,
+      "currentHunger": 0.45,
+      "maxCapacity": 150,
+      "emoji": "🐇"
+    },
+    {
+      "name": "Sheep",
+      "weight": 70.0,
+      "maxEnergy": 3,
+      "currentEnergy": 0,
+      "maxHunger": 15.0,
+      "currentHunger": 15,
+      "maxCapacity": 140,
+      "emoji": "🐑"
+    }
+  ]
+}
+
